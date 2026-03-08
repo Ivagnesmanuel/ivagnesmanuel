@@ -9,14 +9,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Distributed%20Microservices-00897B" />
-  <img src="https://img.shields.io/badge/Virtualization%20Platforms-455A64" />
-  <img src="https://img.shields.io/badge/Windows%20Internals-0078D6?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malware%20RE-7B1FA2" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-512DA8" />
-  <img src="https://img.shields.io/badge/Cryptography-FF6F00" />
+<p align="center">  
+  <img src="https://img.shields.io/badge/System%20Programming-7B1FA2?logoColor=white" />  
+  <img src="https://img.shields.io/badge/Windows%20Internals-5E35B1?logoColor=white" />  
+  <img src="https://img.shields.io/badge/Malware%20RE-3949AB?logoColor=white" />  
+  <img src="https://img.shields.io/badge/Cryptography-1E88E5?logoColor=white" />  
+  <img src="https://img.shields.io/badge/API-00897B?logoColor=white" />  
+  <img src="https://img.shields.io/badge/Docker-43A047?logoColor=white" />  
+  <img src="https://img.shields.io/badge/Distributed%20Microservices-FDD835?logoColor=white" />  
+  <img src="https://img.shields.io/badge/Virtualization%20Platforms-F57C00?logoColor=white" />  
+  <img src="https://img.shields.io/badge/Agentic%20AI-E53935?logoColor=white" />  
 </p>
 
 ---
